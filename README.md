@@ -1,5 +1,9 @@
 # hash-bench-gba
 
+> Part of the **[hash-bench](https://github.com/dmang-dev/hash-bench)**
+> cross-platform suite — the same hash-algorithm sources timed natively
+> on seven Nintendo consoles (NES · GB/GBC · GBA · NDS · DSi · 3DS · N64).
+
 Native **Game Boy Advance** hashing-algorithm benchmark. **32
 algorithms** — 20 non-cryptographic checksums + hashes (CRC-8/16/32/64,
 Adler-32, Fletcher-16/32/64, DJB2, FNV-1a, Pearson-8, Knuth, Jenkins
